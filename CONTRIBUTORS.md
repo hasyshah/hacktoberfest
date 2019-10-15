@@ -93,6 +93,11 @@
 - Bio: Mechanical engineer
 - Github: [ahmadmusaddiq](https://github.com/ahmadmusaddiq)
 
+#### Name: [Shahid Haseeem C](https://github.com/hasyshah)
+- Place: India
+- Bio: Data Enthusiast
+- Github: [hasyshah](https://github.com/hasyshah)
+
 #### Name: [Ahmad Thames](https://github.com/ahmadthames)
 - Place: Houston, TX, USA
 - Bio: UX Engineer, Traveler, Plant-Based Foodie
